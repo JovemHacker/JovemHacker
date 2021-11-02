@@ -1,7 +1,7 @@
 # Marcus Vinícius de Oliveira Rodrigues
 - 18 anos, estudante e finalmente tentando documentar meu projetos
  
-![Snake animation](https://github.com/Jovem Hacker/JovemHacker/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]("https://github.com/Jovem Hacker/JovemHacker/blob/output/github-contribution-grid-snake.svg")
  
 <!--
 **JovemHacker/JovemHacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
