@@ -1,6 +1,3 @@
-# Marcus Vinícius de Oliveira Rodrigues
-- 18 anos, estudante e finalmente tentando documentar meu projetos
- 
  <div align="center">
   <a href="https://github.com/JovemHacker">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JovemHacker&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
