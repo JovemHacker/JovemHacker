@@ -1,4 +1,5 @@
-## Hello, my name is Marcus Vinícius de Oliveira Rodrigues, i'm programmer in training
+## Hello, my name is Marcus Vinícius de Oliveira Rodrigues, i'm programmer studying computer science
+
 <div align="center">
   <a href="https://github.com/JovemHacker">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=JovemHacker&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
