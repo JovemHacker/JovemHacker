@@ -1,4 +1,4 @@
-## Hello, my name is Marcus Vinícius de Oliveira Rodrigues, i'm programmer studying computer science
+## Hello, my name is Marcus Vinícius de Oliveira Rodrigues, i'm programmer, studying computer science
 
 <div align="center">
   <a href="https://github.com/JovemHacker">
